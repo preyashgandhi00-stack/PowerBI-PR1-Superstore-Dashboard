@@ -1,5 +1,8 @@
 # 📊 Superstore Sales Dashboard - Power BI PR 1
 
+## Project Video
+Video Link: https://youtu.be/nYldWBf6DD0
+
 ## Author
 **Preyash Gandhi**
 
